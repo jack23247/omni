@@ -16,10 +16,10 @@ jobs:
     # Standard drop-in approach that should work for most people.
     - uses: ammaraskar/sphinx-action@master
       with:
-        docs-folder: "/"
+        docs-folder: "./"
     # Great extra actions to compose with:
     # Create an artifact of the html output.
     - uses: actions/upload-artifact@v1
       with:
         name: omni-${{ steps.get_commit_id.outputs.commit_id }}
-        path: _build/html/
+        path: "./build/html/"
