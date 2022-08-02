@@ -5,6 +5,7 @@ KB
 --
 
 Solaris 10 Versioning
+~~~~~~~~~~~~~~~~~~~~~
 
 .. _`Solaris 10 1/13 What's New`: http://docs.oracle.com/cd/E26505_01/html/E27003/index.html
 
