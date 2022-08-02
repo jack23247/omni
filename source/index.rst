@@ -18,6 +18,7 @@ The omnicomprehensive \*nix knowledge base.
     
     sun/solaris9.rst
     sun/solaris10.rst
+    sun/indiana2009_06.rst
 
 .. toctree::
     :maxdepth: 1
