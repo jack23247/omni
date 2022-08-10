@@ -47,6 +47,17 @@ Performing a JumpStart Installation
 Installing OpenCSW
 ~~~~~~~~~~~~~~~~~~
 
+
+QA
+--
+
+New hardware
+~~~~~~~~~~~~
+
+**Q:** [SPARC] I added new hardware (e.g. a video card) and it's not recognized. What do I do?
+
+**A:** Drop to OBP and issue the `boot -r` command: the system will be reconfigured.
+
 Resources
 ---------
 
